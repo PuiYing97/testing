@@ -16,8 +16,8 @@ public class Test {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hello");
-        System.out.println("clone");
+        System.out.println("Hi");
+        
         System.out.println("World");
     }
     
